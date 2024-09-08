@@ -11,6 +11,7 @@
 *.kicad_prl
 *.sch-bak
 *~
+~*
 _autosave-*
 *.tmp
 *-save.pro
@@ -26,4 +27,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+
+# production files
+production
